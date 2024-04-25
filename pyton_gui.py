@@ -88,6 +88,7 @@ class App(ttk.Frame):
 if __name__ == "__main__":
     root = tk.Tk()
     root.title("Arduino Focuser - GUI")
+    root.iconbitmap("icon.ico")
 
     # Simply set the theme
     root.tk.call("source", "azure.tcl")
