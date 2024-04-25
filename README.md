@@ -54,7 +54,7 @@ The software component consists of a Python-based GUI that communicates with the
 
 
 <p align="center">
-  <img src="readme_files/gui.gif" alt="animated" />
+  <img src="readme_files/gui.gif" alt="animated" width="200" />
 </p>
 
 ## Setup Instructions
