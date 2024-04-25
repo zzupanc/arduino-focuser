@@ -3,8 +3,9 @@
 Autofocuser is an open-source project aimed at providing a solution for automatically controlling the focus wheel on a telescope. By utilizing an Arduino and a servo motor, users can interact with a Python-based GUI to adjust the focus remotely. This project allows enthusiasts to build their own autofocus system for their telescopes.
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; margin: auto;">
     <img src="readme_files/focuser.gif" alt="Autofocuser GIF" style="width: 100%;">
+    <img src="readme_files/gui.gif" alt="Autofocuser GIF" style="width: 100%;">
 </div>
 
 
