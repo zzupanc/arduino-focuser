@@ -5,7 +5,6 @@ Autofocuser is an open-source project aimed at providing a solution for automati
 
 <div style="display: flex; justify-content: center; margin: auto;">
     <img src="readme_files/focuser.gif" alt="Autofocuser GIF" style="width: 100%;">
-    <img src="readme_files/gui.gif" alt="Autofocuser GIF" style="width: 100%;">
 </div>
 
 
@@ -52,6 +51,10 @@ The hardware setup includes mounting the servo motor onto the telescope's focuse
 ### Software
 
 The software component consists of a Python-based GUI that communicates with the Arduino Nano over serial connection. The GUI provides users with buttons to control the direction and speed of the servo motor, allowing them to adjust the focus remotely. The PWM controller ensures smooth and accurate movement of the servo motor, enhancing the overall user experience.
+
+<div style="display: flex; justify-content: center; margin: auto;">
+    <img src="readme_files/gui.gif" alt="Autofocuser GIF" style="width: 50%;">
+</div>
 
 ## Setup Instructions
 
