@@ -90,14 +90,14 @@ if __name__ == "__main__":
     root.title("Arduino Focuser - GUI")
     root.iconbitmap("icon.ico")
 
-    # Simply set the theme
+    # Setting the azure.tcl theme for mor modern GUI
     root.tk.call("source", "azure.tcl")
     root.tk.call("set_theme", "./dark")
 
     app = App(root)
     app.pack(fill="both", expand=True)
 
-    # Set a minsize for the window, and place it in the middle
+    # Set a minsize for the window, and placing it in the middle of the users screen
     root.update()
     root.minsize(300, 300)
     x_cordinate = int((root.winfo_screenwidth() / 2) - (root.winfo_width() / 2))
