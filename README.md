@@ -29,7 +29,7 @@ In astrophotography, achieving precise focus is crucial for capturing clear and 
 The Autofocuser project utilizes the following components:
 
 - Arduino Nano
-- PWM controller for Sunfonder
+- PWM controller from Sunfonder
 - Injora continuous 360-degree servo motor
 - 9V battery
 - Micro USB cable
