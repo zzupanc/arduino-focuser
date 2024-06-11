@@ -4,7 +4,7 @@ Autofocuser is an open-source project aimed at providing a solution for automati
 
 
 <p align="center">
-  <img src="readme_files/focuser.gif" alt="animated" width="400" />
+  <img src="readme_files/focuser.gif" alt="animated" width="600" />
 </p>
 
 
