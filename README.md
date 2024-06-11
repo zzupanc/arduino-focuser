@@ -58,11 +58,27 @@ The software component consists of a Python-based GUI that communicates with the
   <img src="readme_files/gui.gif" alt="animated" width="400" />
 </p>
 
+## 3D Printed Housing Model
+
+The custom-designed housing for the focuser was created using SolidWorks and is available for download as both SolidWorks part file and STL file for 3D printing. The mentioned files are located in Solidworks_parts folder. This housing ensures a robust and precise alignment of components, crucial for optimal performance.
+
+**Printing Specifications:**
+- **Material:** PLA
+- **Infill:** 20%
+- **Printer:** Prusa MK3 with default settings
+
+Download the files and start building your own automatic telescope focuser with ease!
+
+
+<p align="center">
+  <img src="readme_files/3d_model" alt="3dmodel" width="400" />
+</p>
+
 ## Setup Instructions
 
 To set up the Autofocuser system, follow these steps:
 
-1. Assemble the hardware components according to the provided instructions.
+1. Assemble the hardware components.
 2. Install the Arduino sketch onto the Arduino Nano.
 3. Connect the Arduino Nano to your computer using the micro USB cable.
 4. Install the necessary Python dependencies for the GUI.
