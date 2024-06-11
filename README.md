@@ -96,15 +96,11 @@ The GIF below shows real time usage with my telescope equiped with ASI 224MC USB
 
 
 <p align="center">
-  <img src="readme_files/jup_gif.gif" alt="animated" width="600" />
+  <img src="readme_files/jup_gif.gif" alt="animated" width="800" />
 </p>
 
 <p align="center">
   <img src="readme_files/fullmoon.png" alt="animated" width="800" />
-</p>
-
-<p align="center">
-  <img src="readme_files/luna.png" alt="animated" width="800" />
 </p>
 
 
