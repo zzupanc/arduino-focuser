@@ -71,7 +71,7 @@ Download the files and start building your own automatic telescope focuser with 
 
 
 <p align="center">
-  <img src="readme_files/3d_model" alt="3dmodel" width="400" />
+  <img src="readme_files/3d_model.png" alt="3dmodel" width="400" />
 </p>
 
 ## Setup Instructions
