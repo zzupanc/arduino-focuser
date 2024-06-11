@@ -95,6 +95,20 @@ The GIF below shows real time usage with my telescope equiped with ASI 224MC USB
 </p>
 
 
+<p align="center">
+  <img src="readme_files/jup_gif.gif" alt="animated" width="600" />
+</p>
+
+<p align="center">
+  <img src="readme_files/fullmoon.png" alt="animated" width="800" />
+</p>
+
+<p align="center">
+  <img src="readme_files/luna.png" alt="animated" width="800" />
+</p>
+
+
+
 ## Contributing
 
 Contributions to the Autofocuser project are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request on GitHub.
